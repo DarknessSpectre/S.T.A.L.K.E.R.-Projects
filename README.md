@@ -1,0 +1,26 @@
+# S.T.A.L.K.E.R.: Тень Чернобыля — OGSR Edition
+
+Персональная сборка **S.T.A.L.K.E.R.: «Тень Чернобыля»** на движке [OGSR Engine](https://github.com/OGSR/OGSR-Engine).
+
+| Релиз | Описание | Скачивание |
+| --- | --- | --- |
+| **Тень Чернобыля — OGSR Edition** | Проект изначально создавался для личного использования. Его цель — сохранить дух оригинала, исправить основные ошибки и недочёты и сделать прохождение удобнее. Современный движок сочетается с исправлениями заданий, диалогов и поведения NPC, обновлённой оружейной частью и отдельными механиками из последующих игр серии. Визуальные изменения остаются сдержанными, с сохранением узнаваемого облика «Тени Чернобыля». | Ссылка будет добавлена после публикации сборки. |
+
+Модификации разделены на пакеты с определённым порядком загрузки. Проект продолжает развиваться: сообщения об ошибках и предложения приветствуются.
+
+## Использованные модификации
+
+| Компонент | Использование в сборке |
+| --- | --- |
+| [OGSR Engine](https://github.com/OGSR/OGSR-Engine) | Движок игры. |
+| **lvg_brest** | Пакет исправлений и наработок, выборочно адаптированный под сборку. |
+| **OWR 3.0** | Оружейный пакет, переработанный для OGSR и системы сменных рук. |
+| [ABC — Sleeping Bag Mod](https://www.moddb.com/mods/abc-sleeping-bag-mod) | Основа механики сна. |
+| [ITS Repair Mod — New UI](https://www.playground.ru/stalker_shadow_of_chernobyl/file/s_t_a_l_k_e_r_shadow_of_chernobyl_its_repair_mod_new_ui-1833499) | Основа ремонта снаряжения. |
+| [Arena Extension Mod 0.3.2](https://www.playground.ru/stalker_shadow_of_chernobyl/file/s_t_a_l_k_e_r_shadow_of_chernobyl_arena_extension_mod_ver_0_3_2-861186) | Расширение арены. |
+| **Atmospherics** | Погодный пакет в адаптации для OGSR. |
+| [Vanilla Textures Overhaul](https://www.moddb.com/games/stalker/addons/stalker-shadow-of-chernobyl-vanilla-textures-overhaul) | Обновлённые текстуры. |
+| [H8 ClassicPack 2.1](https://www.moddb.com/games/stalker/addons/h8-classic-pack-npc-models) | Модели NPC. |
+| [«Повелитель Зоны» Gold 5.0](https://ap-pro.ru/forums/topic/3487-povelitel-zony-gold-50-dlya-tch/) | Спавнер и инструменты тестирования. |
+
+Часть компонентов переработана для совместной работы в сборке. Благодарность авторам оригинальных модификаций и команде OGSR за их работу.
